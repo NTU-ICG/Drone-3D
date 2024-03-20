@@ -1,0 +1,14 @@
+ROS Topic Information: Data File
+
+1. /audio1/audio, /audio2/audio, /audio3/audio, /audio4/audio; Type: audio_common_msgs/AudioData
+2. /clock; Type: rosgraph_msgs/Clock
+3. /livox_avia/lidar; Type: livox_ros_driver/CustomMsg
+4. /livox_mid360/lidar; Type: livox_ros_driver2/CustomMsg
+5. /radar_enhanced_pcl, /radar_pcl, /radar_trk; Type: sensor_msgs/PointCloud
+6. /usb_cam/image_raw; Type: sensor_msgs/Image
+
+ROS Topic Information: Ground Truth
+
+1. /clock; Type: rosgraph_msgs/Clock
+2. /leica/point/absolute, /leica/point/relative; Type: geometry_msgs/PointStamped
+3. /tf; Type: tf2_msgs/TFMessage
