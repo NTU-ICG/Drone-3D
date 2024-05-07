@@ -1,5 +1,7 @@
 # Drone-3D
-This is the official repository for the CVPR UG2+ Challenge 2024 Track 5- Drone 3D Detection Track. If you are interested in our work, please consider giving us a star.
+This is the official repository for the CVPR UG2+ Challenge 2024 Track 5- Drone 3D Detection Track [https://cvpr2024ug2challenge.github.io/rules24_t5.html]. 
+
+If you are interested in our work, please consider giving us a star.
 
 Terminal 1
 ```
