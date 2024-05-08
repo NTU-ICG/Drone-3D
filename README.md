@@ -1,9 +1,9 @@
-# Drone-3D Detection and Tracking
-This is the official repository for the CVPR UG2+ Challenge 2024 Track 5- [Drone 3D Detection Track](https://cvpr2024ug2challenge.github.io/rules24_t5.html). 
+# UAV Tracking and Pose Estimation
+This is the official repository for the CVPR UG2+ Challenge 2024 Track 5- [UAV Tracking and Pose Estimation](https://cvpr2024ug2challenge.github.io/rules24_t5.html). 
 
 If you are interested in our work, please consider giving us a star.
 
-# Leadingboard 
+## Leadingboard 
 ![image](https://github.com/NTU-ICG/Drone-3D/assets/19664995/85ed5cdf-69c6-4ebf-b453-a31c248b5bc6)
 
 
