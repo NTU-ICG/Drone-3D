@@ -7,6 +7,7 @@ If you are interested in our work, please consider giving us a star.
 ![image](https://github.com/NTU-ICG/Drone-3D/assets/19664995/85ed5cdf-69c6-4ebf-b453-a31c248b5bc6)
 
 
+## Methodology
 Terminal 1
 ```
 roscore
