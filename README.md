@@ -1,5 +1,5 @@
 # CVPR 2024 UG2+ Challenge Track 5: UAV Tracking and Pose Estimation 
-This is the official repository for the CVPR UG2+ Challenge 2024 Track 5- [UAV Tracking and Pose Estimation](https://cvpr2024ug2challenge.github.io/rules24_t5.html). 
+This is the official repository for the CVPR 2024 UG2+ Challenge Track 5- [UAV Tracking and Pose Estimation](https://cvpr2024ug2challenge.github.io/rules24_t5.html). 
 
 If you are interested in our work, please consider giving us a star.
 
