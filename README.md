@@ -1,7 +1,17 @@
 # CVPR 2024 UG2+ Challenge Track 5: UAV Tracking and Pose Estimation 
 This is the official repository for the CVPR 2024 UG2+ Challenge Track 5- [UAV Tracking and Pose Estimation](https://cvpr2024ug2challenge.github.io/rules24_t5.html). 
 
-If you are interested in our work, please consider giving us a star.
+If you are interested in our work, please consider giving us a star and citing our report.
+```
+@misc{xiao2024clusteringbased,
+    title={Clustering-based Learning for UAV Tracking and Pose Estimation},
+    author={Jiaping Xiao and Phumrapee Pisutsin and Cheng Wen Tsao and Mir Feroskhan},
+    year={2024},
+    eprint={2405.16867},
+    archivePrefix={arXiv},
+    primaryClass={cs.RO}
+}
+```
 
 ## Leading Board 
 ![image](https://github.com/NTU-ICG/Drone-3D/assets/19664995/85ed5cdf-69c6-4ebf-b453-a31c248b5bc6)
