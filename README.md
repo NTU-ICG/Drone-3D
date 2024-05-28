@@ -18,6 +18,9 @@ If you are interested in our work, please consider giving us a star and citing o
 
 
 ## Methodology
+![CVPR2024_UG2_Poster(NTU-ICG)](https://github.com/NTU-ICG/Drone-3D/assets/19664995/0c13fe81-ab40-449d-b759-05bb60651d5d)
+
+
 Terminal 1
 ```
 roscore
