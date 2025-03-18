@@ -31,3 +31,4 @@ Terminal 3
 ```
 python3 rosbag-image-saver.py
 ```
+run "clustering.ipynb step" by step.
